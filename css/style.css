@@ -1,0 +1,98 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    background-image: url("../images/pattern-background-desktop.svg");
+    background-repeat: no-repeat;
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+    color: #1F2E56;
+}
+
+#order-box {
+    background: #ffffff;
+    display: block;
+    width: 30%;
+    border-radius: 20px;
+    overflow: hidden;
+    margin: 5% auto;
+    /* background: #ffffff; */
+}
+
+#hero {
+    width: 100%;
+}
+
+.main {
+    padding: 7%;
+}
+
+.plan {
+    display: flex;
+    width: 100%;
+    /* margin: 10px; */
+    padding: 5% 0px;
+    align-items: center;
+    border-radius: 10px;
+    background: hsl(225, 100%, 98%);
+}
+
+#plan-details {
+    margin-right: 17%;
+}
+
+#music-icon {
+    width: 15%;
+    margin: 0px 15px;
+}
+
+#annual-plan {
+    font-weight: 700;
+}
+
+a {
+    color: #3828E0;
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+#annula-plan-para {
+    font-weight: 900;
+}
+
+.pay-button {
+    background: #3828E0;
+    color: #F4F7FF;
+    width: 100%;
+    border-radius: 11px;
+    padding: 4%;
+    margin: 7% 0%;
+    display: block;
+    height: -14%;
+}
+
+.cancel-button {
+    border: none;
+    background: none;
+    width: 100%;
+    color: #717FA6;
+}
+
+#description {
+    text-align: center;
+    color: #717FA6;
+}
+
+© 2021 GitHub,
+Inc. Terms Privacy Security Status Docs Contact GitHub Pricing API Training Blog About
