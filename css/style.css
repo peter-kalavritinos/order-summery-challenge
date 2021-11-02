@@ -12,6 +12,7 @@ body {
     background-repeat: no-repeat;
     font-family: "Red Hat Display", sans-serif;
     font-size: 16px;
+    background-color: background-color: HSL(224°, 23%, 55%);
 }
 
 h1 {
@@ -80,6 +81,7 @@ a {
     margin: 7% 0%;
     display: block;
     height: -14%;
+    border-style: none;
 }
 
 .cancel-button {
