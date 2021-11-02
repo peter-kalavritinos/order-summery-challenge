@@ -12,6 +12,7 @@ body {
     background-repeat: no-repeat;
     font-family: "Red Hat Display", sans-serif;
     font-size: 16px;
+    background-color: HSL(224°, 23%, 55%)
 }
 
 h1 {
@@ -72,6 +73,7 @@ a {
 }
 
 .pay-button {
+    border-style: none;
     background: #3828E0;
     color: #F4F7FF;
     width: 100%;
